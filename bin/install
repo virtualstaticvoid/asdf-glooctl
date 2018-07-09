@@ -28,7 +28,8 @@ get_platform() {
 }
 
 get_arch() {
-  uname -m
+  # uname -m
+  echo "amd64"
 }
 
 get_download_url() {
