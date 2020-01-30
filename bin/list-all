@@ -13,7 +13,7 @@ sort_versions() {
     LC_ALL=C sort -t. -k 1,1 -k 2,2n -k 3,3n -k 4,4n -k 5,5n | awk '{print $2}'
 }
 
-releases_path=https://api.github.com/repos/solo-io/glooctl/releases
+releases_path=https://api.github.com/repos/solo-io/gloo/releases
 cmd="curl -sL"
 if [ -n "$OAUTH_TOKEN" ]; then
   cmd="$cmd -H 'Authorization: token $OAUTH_TOKEN'"
