@@ -1,6 +1,6 @@
 # asdf-glooctl
 
-[![Build Status](https://travis-ci.org/virtualstaticvoid/asdf-glooctl.svg?branch=master)](https://travis-ci.org/virtualstaticvoid/asdf-glooctl)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/virtualstaticvoid/asdf-glooctl/Main%20Workflow?style=flat-square)](https://github.com/virtualstaticvoid/asdf-glooctl/actions)
 
 [`glooctl`][util] plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
 
