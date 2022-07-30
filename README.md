@@ -8,6 +8,7 @@
 
 ```
 asdf plugin-add glooctl https://github.com/virtualstaticvoid/asdf-glooctl.git
+asdf install glooctl latest
 ```
 
 ## Use
