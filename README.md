@@ -1,6 +1,6 @@
 # asdf-glooctl
 
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/virtualstaticvoid/asdf-glooctl/Main%20Workflow?style=flat-square)](https://github.com/virtualstaticvoid/asdf-glooctl/actions)
+[![Main Workflow](https://github.com/virtualstaticvoid/asdf-glooctl/actions/workflows/workflow.yml/badge.svg)](https://github.com/virtualstaticvoid/asdf-glooctl/actions/workflows/workflow.yml)
 
 [`glooctl`][util] plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
 
