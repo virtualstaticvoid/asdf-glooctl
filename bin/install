@@ -48,7 +48,7 @@ get_download_url() {
     version="v${version}"
   fi
 
-  echo "https://github.com/solo-io/gloo/releases/download/${version}/glooctl-${platform}-${arch}"
+  echo "https://github.com/solo-io/gloo/releases/download/v${version}/glooctl-${platform}-${arch}"
 }
 
 install_plugin "$ASDF_INSTALL_TYPE" "$ASDF_INSTALL_VERSION" "$ASDF_INSTALL_PATH"
